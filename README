@@ -1,0 +1,43 @@
+# AI Student Performance Predictor
+
+An AI-powered Student Performance Predictor built using Python, Machine Learning, and Streamlit.
+
+## Features
+
+- Predicts student final performance
+- Uses attendance, study hours, assignment marks, mid marks, and previous GPA
+- Displays student profile and academic information
+- Provides personalized suggestions
+- Interactive Streamlit web interface
+- Machine learning model using Random Forest
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Matplotlib
+- Joblib
+
+## How to Run
+
+Install the required packages:
+
+pip install -r requirements.txt
+
+Run the application:
+
+python -m streamlit run app.py
+
+## Dataset
+
+The project uses a synthetic student dataset for demonstration purposes.
+
+## Future Enhancements
+
+- Add more student analytics
+- Improve prediction accuracy
+- Add charts and performance reports
+- Deploy the application online
